@@ -8,8 +8,8 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const int extrabar           = 1;        /* 0 means extra bar */
 static const char statussep         = ';';
-static const char *fonts[]          = { "DejaVu Mono:size=11" };
-static const char dmenufont[]       = "DejaVu Mono:size=11";
+static const char *fonts[]          = { "Fira Code:size=9" };
+static const char dmenufont[]       = "Fira Code:size=9";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
